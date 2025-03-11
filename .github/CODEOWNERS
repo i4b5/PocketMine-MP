@@ -1,1 +1,5 @@
 * @pmmp/server-developers
+wget https://minecraft.azureedge.net/bin-linux/bedrock-server-1.21.62.zip
+unzip bedrock-server-1.21.62.zip
+./bedrock_server
+iz00100100000110100100101
